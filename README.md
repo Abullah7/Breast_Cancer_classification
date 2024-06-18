@@ -11,7 +11,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Abullah7/breast-cancer-detection.git
+    git clone https://github.com/Abullah7/breast-cancer-classification.git
     cd breast-cancer-detection
     ```
 
@@ -25,7 +25,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 
 ## Usage
 
-The main notebook for this project is `model_1.ipynb`, which includes the following steps:
+The main notebook for this project is `Ensamble.ipynb`, which includes the following steps:
 
 1. **Loading the dataset**: Importing the dataset and displaying the initial data.
 2. **Data Preprocessing**: Cleaning the data, handling missing values, and encoding categorical variables.
@@ -37,7 +37,7 @@ The main notebook for this project is `model_1.ipynb`, which includes the follow
 To run the notebook:
 
 ```bash
-jupyter notebook model_1.ipynb
+jupyter notebook Ensamble.ipynb
 ```
 
 ## Results
