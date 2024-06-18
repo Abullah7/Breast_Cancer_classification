@@ -40,9 +40,6 @@ To run the notebook:
 jupyter notebook Ensamble.ipynb
 ```
 
-## Results
-
-The project evaluates multiple machine learning models including Logistic Regression, Decision Trees, Random Forests, and Support Vector Machines (SVM). The best-performing model is selected based on evaluation metrics.
 
 ### Key Metrics
 
