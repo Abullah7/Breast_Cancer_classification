@@ -11,7 +11,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/breast-cancer-detection.git
+    git clone https://github.com/Abullah7/breast-cancer-detection.git
     cd breast-cancer-detection
     ```
 
